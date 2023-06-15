@@ -1,6 +1,7 @@
 ### Informacion sobre el repositorio
 ---
 Aqui se alojaran los desafios 1 y 2 del Bootcamp Java Developer de EducacionIT
+Localmente se clono este repositorio en el disco :d/estudios/educacionit/bootcamp-java-git-desafios (cumpliendo con el desafio 2)
 
 ---
 
@@ -16,4 +17,10 @@ Aqui se alojaran los desafios 1 y 2 del Bootcamp Java Developer de EducacionIT
 
 ---
 
+### GIT: Desafio 2
+---
+1. Clona en otra carpeta el repositorio que empezaste, realiza algunos cambios y haz un commit
+2. Importa el código fuente de NestJS (publicado en **[este](https://github.com/nestjs/nest)** repositorio) a nuestro repositorio para tener control total.
+
+---
 
