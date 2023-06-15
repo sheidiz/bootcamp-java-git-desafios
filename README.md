@@ -1,13 +1,11 @@
-![Java](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)
-![EducacionIT](https://events.jooble.org/mx/wp-content/uploads/2021/07/logo-educacionit-original-09.png)
-
----
-
 ### Informacion sobre el repositorio
 ---
 Aqui se alojaran los desafios 1 y 2 del Bootcamp Java Developer de EducacionIT
 
+---
+
 ### GIT: Desafio 1
+---
 1. Crea:
     - Un nuevo repositorio
     - El README.md
