@@ -1,5 +1,5 @@
-[Java](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)
-[EducacionIT](https://events.jooble.org/mx/wp-content/uploads/2021/07/logo-educacionit-original-09.png)
+![Java](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)
+![EducacionIT](https://events.jooble.org/mx/wp-content/uploads/2021/07/logo-educacionit-original-09.png)
 
 ---
 
