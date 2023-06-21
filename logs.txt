@@ -1,0 +1,29 @@
+commit cea3b825879de5fecc276104e72cf7f0bd824391 (HEAD -> dev, origin/main, origin/HEAD, main)
+Author: Sheila Diz <dizsheila07@gmail.com>
+Date:   Thu Jun 15 20:23:45 2023 -0300
+
+    Update README.md: added Desafio 2
+
+commit d3306ccd5f545c13170c88ac040c1d3a3bc74696
+Author: Sheila Diz <dizsheila07@gmail.com>
+Date:   Thu Jun 15 19:28:06 2023 -0300
+
+    Docs: Update README.md
+
+commit 5309b880e5ab47d5bf67c9400e4e08f3c3014b67
+Author: sheidiz <118202799+sheidiz@users.noreply.github.com>
+Date:   Thu Jun 15 19:10:34 2023 -0300
+
+    Update README.md
+
+commit 36f733691e8b6842c338deadb37e09dab7c6d78d
+Author: Sheila Diz <dizsheila07@gmail.com>
+Date:   Thu Jun 15 19:09:15 2023 -0300
+
+    docs: modify README.md
+
+commit 56e0197bde7d59f4d64cb07ba7edef37920ab633
+Author: Sheila Diz <dizsheila07@gmail.com>
+Date:   Thu Jun 15 18:54:11 2023 -0300
+
+    first commit
