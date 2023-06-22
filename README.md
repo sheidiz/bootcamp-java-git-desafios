@@ -26,3 +26,7 @@ Localmente se clono este repositorio en el disco d/estudios/educacionit/bootcamp
 
 ---
 
+### GIT: Desafio 3
+---
+1. Dentro del repositorio crear una nueva branch custom-navbar, crear archivos. Luego pausar el trabajo sin commitearlo, para borrar el archivo status.js del branch master.
+2. Subir a producción una nueva interfaz en React.Js para el home Banking de un cliente. Su desarrollo se encuentra en la rama _*front-react*_. Subir los cambios a la rama master.
