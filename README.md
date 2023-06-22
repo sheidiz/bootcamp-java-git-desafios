@@ -1,7 +1,9 @@
 ### Informacion sobre el repositorio
 ---
-Aqui se alojaran los desafios 1 y 2 del Bootcamp Java Developer de EducacionIT
-Localmente se clono este repositorio en el disco :d/estudios/educacionit/bootcamp-java-git-desafios (cumpliendo con el desafio 2)
+Aqui se alojaran los desafios 1 y 2 del Bootcamp Java Developer de EducacionIT.
+
+Localmente se clono este repositorio en el disco d/estudios/educacionit/bootcamp-java-git-desafios (cumpliendo con el desafio 2)
+
 
 ---
 
