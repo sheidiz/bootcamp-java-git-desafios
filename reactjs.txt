@@ -1,0 +1,6 @@
+EJERCICIO 2:
+------------
+
+Desarrollado por el equipo de Front-End:
+Nueva interfaz en React.Js para el Home Banking de x cliente
+
